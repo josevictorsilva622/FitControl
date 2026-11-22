@@ -1,42 +1,102 @@
-# FitControl
+# 🏋️ FitControl
 
 ## Sistema de Gerenciamento de Academia
 
-Projeto desenvolvido para a disciplina de Engenharia de Software.
+Projeto desenvolvido para a disciplina de Engenharia de Software com o objetivo de modelar e documentar uma solução para gerenciamento de academias.
 
-## Integrantes
+---
 
-- Bruna 
-- José Silva 
-- Luiz 
-- Marcos Neto 
+## 👥 Integrantes
 
-## Objetivo
+- Bruna
+- José Victor Ferreira da Silva
+- Luiz
+- Marcos Neto
 
-Desenvolver um sistema para gerenciamento de academias, permitindo controle de alunos, planos, mensalidades, pagamentos, fichas de treino e acesso por catraca.
+---
 
-## Tecnologias Utilizadas
+## 🎯 Objetivo
 
-- GitHub
-- Trello
-- Draw.io
-- Figma
+Desenvolver um sistema para gerenciamento de academias, permitindo o controle de:
 
-## Estrutura
+- Alunos
+- Planos
+- Mensalidades
+- Pagamentos
+- Fichas de Treino
+- Controle de Acesso por Catraca
 
-/docs → Documentação
+---
 
-/diagramas → Diagramas UML
+## 🛠 Ferramentas Utilizadas
 
-/wireframes → Protótipos de tela
+| Ferramenta | Finalidade |
+|------------|------------|
+| GitHub | Versionamento e documentação |
+| Trello | Planejamento e gestão das tarefas |
+| Draw.io | Modelagem UML |
+| Figma | Prototipação das telas |
 
-## Diagramas
+---
 
-- Casos de Uso
-- Sequência
-- Estados
-- Classes
+## 📂 Estrutura do Projeto
 
-## Arquitetura
+```text
+FitControl
+│
+├── docs
+│   ├── DRS.md
+│   ├── HistoriasUsuario.md
+│   └── Arquitetura.md
+│
+├── diagramas
+│   ├── Diagrama de Casos de Uso
+│   ├── Diagrama de Atividade
+│   ├── Diagrama de Sequência
+│   ├── Diagrama de Estado
+│   └── Diagrama de Classe
+│
+└── wireframes
+```
 
-MVC (Model View Controller)
+---
+
+## 📑 Documentação
+
+A documentação do projeto está organizada na pasta docs e contempla:
+
+- Documento de Requisitos de Software (DRS)
+- Histórias de Usuário
+- Arquitetura do Sistema
+
+---
+
+## 📊 Diagramas UML
+
+Os seguintes diagramas foram desenvolvidos:
+
+- Diagrama de Casos de Uso
+- Diagrama de Atividade
+- Diagrama de Sequência
+- Diagrama de Estado
+- Diagrama de Classe
+
+---
+
+## 🏛 Arquitetura
+
+O sistema foi modelado utilizando o padrão:
+
+### MVC (Model-View-Controller)
+
+- Model → Dados e entidades do sistema
+- View → Interface com o usuário
+- Controller → Regras de negócio
+
+---
+
+## 📌 Projeto Acadêmico
+
+Disciplina: Engenharia de Software
+
+Projeto: FitControl - Sistema de Gerenciamento de Academia
