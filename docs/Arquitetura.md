@@ -42,7 +42,7 @@ Responsável pela interface do sistema.
 - Login
 - Dashboard
 - Cadastro de Aluno
-- Planos
+- Planos.
 - Pagamentos
 - Ficha de Treino
 - Relatórios
