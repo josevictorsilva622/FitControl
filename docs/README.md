@@ -1,17 +1,68 @@
-# Documentação do Projeto FitControl
+# 📚 Documentação do Projeto FitControl
 
-Esta pasta contém toda a documentação do projeto desenvolvido para a disciplina de Engenharia de Software.
+Esta pasta reúne toda a documentação produzida durante o desenvolvimento do projeto **FitControl**, sistema de gerenciamento de academia desenvolvido para a disciplina de Engenharia de Software.
 
-## Documentos
+## Objetivo da Documentação
 
-### DRS
+Documentar os requisitos, regras de negócio, arquitetura e necessidades dos usuários, garantindo organização e rastreabilidade das informações do projeto.
 
-Documento de Requisitos de Software contendo requisitos funcionais, não funcionais e regras de negócio.
+---
+
+## Documentos Disponíveis
+
+### DRS (Documento de Requisitos de Software)
+
+Documento responsável por descrever:
+
+- Objetivo do sistema
+- Escopo
+- Stakeholders
+- Requisitos Funcionais
+- Requisitos Não Funcionais
+- Regras de Negócio
+
+Arquivo:
+
+```text
+DRS.md
+```
+
+---
 
 ### Histórias de Usuário
 
-Histórias dos principais atores do sistema.
+Representação das necessidades dos atores do sistema utilizando o padrão:
+
+> Como [ator], quero [funcionalidade] para [benefício].
+
+Arquivo:
+
+```text
+HistoriasUsuario.md
+```
+
+---
 
 ### Arquitetura
 
-Descrição da arquitetura MVC utilizada no projeto.
+Documento responsável por apresentar:
+
+- Arquitetura MVC
+- Camada Model
+- Camada View
+- Camada Controller
+- Estrutura geral da aplicação
+
+Arquivo:
+
+```text
+Arquitetura.md
+```
+
+---
+
+## Projeto
+
+**FitControl - Sistema de Gerenciamento de Academia**
+
+Disciplina: Engenharia de Software
