@@ -13,7 +13,7 @@ Projeto desenvolvido para a disciplina de Engenharia de Software com o objetivo 
 ## 👥 Integrantes
 
 
-- Bruna
+- Bruna Trindade Tavares
 - José Victor Ferreira da Silva
 - Luiz
 - Marcos Neto
