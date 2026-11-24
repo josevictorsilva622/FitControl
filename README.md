@@ -59,19 +59,37 @@ Desenvolver um sistema para gerenciamento de academias, permitindo o controle de
 ```text
 FitControl
 │
+├── diagramas
+│   ├── Diagrama de Atividade.jpeg
+│   ├── Diagrama de Casos de Uso.jpeg
+│   ├── Diagrama de Classe.jpeg
+│   ├── Diagrama de Estado.jpeg
+│   ├── Diagrama de Sequencia.jpeg
+│   └── README.md
+│
 ├── docs
+│   ├── Arquitetura.md
 │   ├── DRS.md
 │   ├── HistoriasUsuario.md
-│   └── Arquitetura.md
+│   └── README.md
 │
-├── diagramas
-│   ├── Diagrama de Casos de Uso
-│   ├── Diagrama de Atividade
-│   ├── Diagrama de Sequência
-│   ├── Diagrama de Estado
-│   └── Diagrama de Classe
+├── evidencias
+│   ├── Em andamento.jpeg
+│   ├── README.md
+│   ├── atividades finalizadas e validadas
+│   └── lista de tarefas.jpeg
 │
-└── wireframes
+├── wireframes
+│   ├── CadastroAluno.png
+│   ├── Dashboard.png
+│   ├── FichaTreino.png
+│   ├── Login.png
+│   ├── Pagamentos.png
+│   ├── Planos.png
+│   ├── README.md
+│   └── Relatorios.png
+│
+└── README.md
 ```
 
 
