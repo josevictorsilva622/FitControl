@@ -125,4 +125,28 @@ O sistema foi modelado utilizando o padrão:
 ---
 
 
-## 📌 Projeto Acadêmico
+---
+## 🎨 Wireframes
+
+A seguir estão os protótipos de interface desenvolvidos para o sistema FitControl.
+
+### 🔐 Tela de Login
+![Tela de Login](wireframes/Login.png)
+
+### 👤 Cadastro de Aluno
+![Cadastro de Aluno](wireframes/CadastroAluno.png)
+
+### 📊 Dashboard
+![Dashboard](wireframes/Dashboard.png)
+
+### 📋 Gerenciamento de Planos
+![Planos](wireframes/Planos.png)
+
+### 💳 Controle de Pagamentos
+![Pagamentos](wireframes/Pagamentos.png)
+
+### 🏋️ Ficha de Treino
+![Ficha de Treino](wireframes/FichaTreino.png)
+
+### 📈 Relatórios
+![Relatórios](wireframes/Relatorios
