@@ -148,5 +148,4 @@ A seguir estão os protótipos de interface desenvolvidos para o sistema FitCont
 ### 🏋️ Ficha de Treino
 ![Ficha de Treino](wireframes/FichaTreino.png)
 
-### 📈 Relatórios
-![Relatórios](wireframes/Relatorios
+
