@@ -47,7 +47,7 @@ Desenvolver um sistema para gerenciamento de academias, permitindo o controle de
 | GitHub | Versionamento e documentação |
 | Trello | Planejamento e gestão das tarefas |
 | Draw.io | Modelagem UML |
-| Figma | Prototipação das telas |
+| HTML | Prototipação das telas |
 
 
 ---
