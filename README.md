@@ -76,7 +76,7 @@ FitControl
 ├── evidencias
 │   ├── Em andamento.jpeg
 │   ├── README.md
-│   ├── atividades finalizadas e validadas
+│   ├── atividades finalizadas e validadas.jpeg
 │   └── lista de tarefas.jpeg
 │
 ├── wireframes
