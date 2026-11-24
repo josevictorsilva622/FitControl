@@ -21,3 +21,5 @@ Contém as atividades finalizadas e validadas.
 - Trello.png
 
 A imagem apresenta o quadro utilizado para acompanhamento das atividades do projeto.
+
+Acessar o trello: https://trello.com/b/Gs8UxGmq
