@@ -12,4 +12,4 @@ Esta pasta contém os protótipos de interface desenvolvidos para o sistema FitC
 - Ficha de Treino
 - Relatórios
 
-Os wireframes foram desenvolvidos utilizando a ferramenta Html.
+Os wireframes foram desenvolvidos utilizando  Html.
